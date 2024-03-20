@@ -29,13 +29,13 @@ There are several cast recordings available, next to the original English langua
 * Youtube Music: https://music.youtube.com/playlist?list=OLAK5uy_lUKxStPzjAMji_DU553mfGRwbzDY6AOqA
 * Itunes: https://music.apple.com/us/album/cats-original-broadway-cast-recording/1440869612
 
-## Vienna Cast Recording (2021 - in German)
+### Vienna Cast Recording (2021 - in German)
 * Spotify: https://open.spotify.com/album/0AYCaAs0PjlOCDKerUuPwy
 * Youtube Music: https://music.youtube.com/playlist?list=OLAK5uy_m6EYCr4vqIiLG50FZnsEq6H6aFWQDYKf8
 * Itunes: https://music.apple.com/us/album/cats-deutschsprachige-gesamtaufnahme-ronacher-2021-live/1595073790
 
 ## Into the deep end
-You still didn't have enough? You wan't to know more about the Jellicle tribe? Well you're in luck:
+You still didn't have enough? You wan't to know more about the Jellicle tribe? Well you're in luck. There are a lot of resources to be found. I've got a few here to start your Cats journey.
 * The fandom wiki with over 5000 articles and extensive galleries: https://catsmusical.fandom.com/wiki/Cats_Musical_Wiki
 * Maggie Mae Fish' video essay on Cats the musical (and the 2019 movie) in the context of TS Elliot's politics and other works: https://www.youtube.com/watch?v=6tYcPuVYDHw
 * The Wrong Cat Died, over a 150 podcast episodes with interviews with performers from various productions: https://broadwaypodcastnetwork.com/podcasts/the-wrong-cat-died/
