@@ -5,6 +5,7 @@ Resources to coincide with my PancakesCon5 talk: Warding off Macavity throug Thr
 
 ## The Threat Modeling bits:
 Mifare Lady's talk 'It's not just stalkerware' at May Contain Hackers 2022: https://media.ccc.de/v/mch2022-258-it-s-not-just-stalkerware
+
 The threat modeling manifesto, which is an excellent start to begin your threat modeling journey: https://www.threatmodelingmanifesto.org/
 
 ## Watch Cats the Musical:
