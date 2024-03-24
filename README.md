@@ -3,8 +3,12 @@
 
 Resources to coincide with my PancakesCon5 talk: Warding off Macavity throug Threat Modeling
 
+## The Threat Modeling bits:
+Mifare Lady's talk 'It's not just stalkerware' at May Contain Hackers 2022: https://media.ccc.de/v/mch2022-258-it-s-not-just-stalkerware
+The threat modeling manifesto, which is an excellent start to begin your threat modeling journey: https://www.threatmodelingmanifesto.org/
+
 ## Watch Cats the Musical:
-The 1998 proshot is availale on DVD and Blueray, and can be streamed via Amazon Prime and Apple TV. But virtually the entire film has been uploaded as individual songs to the official Cats the Musical Youtube channel. For that last one I've created a playlist with all the songs in chronoligical order. There is also a link to the 
+The 1998 proshot is availale on DVD and Blueray, and can be streamed via Amazon Prime and Apple TV. The entire film has been uploaded as individual songs (only the overture is missing) to the official Cats the Musical Youtube channel. For that last one I've created a playlist with all the songs in chronoligical order. There is also a link to the 
 
 If you want a quick impression in under 5 minutes, here are two trailers:
 * Cats 1998 Video Trailer: https://www.youtube.com/watch?v=PdsiMTisPDo
@@ -35,8 +39,8 @@ There are several cast recordings available, next to the original English langua
 * Itunes: https://music.apple.com/us/album/cats-deutschsprachige-gesamtaufnahme-ronacher-2021-live/1595073790
 
 ## Into the deep end
-You still didn't have enough? You wan't to know more about the Jellicle tribe? Well you're in luck. There are a lot of resources to be found. I've got a few here to start your Cats journey.
+You still didn't have enough? You wan't to know more about the Jellicle tribe? Well you're in luck. There are a lot of resources to be found. I've got a few here to start your Cats deep dive
 * The fandom wiki with over 5000 articles and extensive galleries: https://catsmusical.fandom.com/wiki/Cats_Musical_Wiki
-* Maggie Mae Fish' video essay on Cats the musical (and the 2019 movie) in the context of TS Elliot's politics and other works: https://www.youtube.com/watch?v=6tYcPuVYDHw
+* Maggie Mae Fish' video essay on Cats the musical (and the 2019 movie) in the context of TS Elliot's politics and his other works: https://www.youtube.com/watch?v=6tYcPuVYDHw
 * The Wrong Cat Died, over a 150 podcast episodes with interviews with performers from various productions: https://broadwaypodcastnetwork.com/podcasts/the-wrong-cat-died/
 
