@@ -11,9 +11,13 @@ The threat modeling manifesto, which is an excellent start to begin your threat 
 ## Watch Cats the Musical:
 The 1998 proshot is availale on DVD and Blueray, and can be streamed via Amazon Prime and Apple TV. The entire film has been uploaded as individual songs (only the overture is missing) to the official Cats the Musical Youtube channel. For that last one I've created a playlist with all the songs in chronoligical order. There is also a link to the 
 
-If you want a quick impression in under 5 minutes, here are two trailers:
+### TL;DR
+If you want a quick impression in just a few minutes, here are a few short options for you:
 * Cats 1998 Video Trailer: https://www.youtube.com/watch?v=PdsiMTisPDo
 * Cats Vienna 2019-2022 Stage production trailer: https://www.youtube.com/watch?v=0U3Vsc--C-8
+* Memory by Elaine Paige, taken from the 1998 film: https://www.youtube.com/watch?v=mdBVJbzkoqo
+* Jellicle Songs for Jellicle Cats and Memory By Betty Buckley and the original Broadway cast performed at the Tony Awards: https://www.youtube.com/watch?v=Wf1s-8YhGMY 
+
 
 ### Cats 1998 proshot:
 * Amazon Prime (charges may apply): https://www.amazon.com/Cats-Elaine-Paige/dp/B075DJ4NRS
