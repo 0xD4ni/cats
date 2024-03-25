@@ -1,7 +1,7 @@
 # Warding off Macavity through Threat Modeling
 *Building a personal threat model to shore up against stalkers told through Cats the Musical.*
 
-Resources to coincide with my PancakesCon5 talk: Warding off Macavity throug Threat Modeling
+Resources to coincide with my PancakesCon5 talk: Warding off Macavity throug Threat Modeling. A PDF version of my slides is available in the [file section of this repository](https://github.com/0xD4ni/cats/blob/main/Warding%20off%20Macavity%20through%20threat%20modeling%20-%20PancakesCon%20(PDF%20friendly).pdf). 
 
 ## The Threat Modeling bits:
 Mifare Lady's talk 'It's not just stalkerware' at May Contain Hackers 2022: https://media.ccc.de/v/mch2022-258-it-s-not-just-stalkerware
